@@ -17,10 +17,14 @@ tags [[Backbase]]
 	- Technical Documents
 - [x] [Jira](https://servicedesk.atlassian.backbase.com/servicedesk/customer/portals)
 	- Tickets
-- [ ] VPN
-- [ ] Git
+- [x] VPN
+- [x] Git
 - [ ] Printer
+- [ ] 1passwork
 - [ ] ...
+- [ ] local-backend-setup
+	- [ ] docker compose --profile=bootstrap up
+	
 
 ### 
 **SOME MORE HANDY LINKS...**
