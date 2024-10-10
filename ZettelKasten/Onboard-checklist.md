@@ -18,7 +18,7 @@ tags [[Backbase]]
 - [x] [Jira](https://servicedesk.atlassian.backbase.com/servicedesk/customer/portals)
 	- Tickets
 - [x] VPN
-- [x] Git
+- [x] [Git](https://myapps.microsoft.com/)
 - [ ] Printer
 - [ ] 1passwork
 - [ ] ...
